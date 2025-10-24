@@ -6,7 +6,7 @@ This mini-project demonstrates basic data handling and visualisation in Python f
 
 
 
-\## 🧬 Files
+\## Files
 
 \- \*\*gene\_expression\_data.csv\*\* — sample dataset with gene names and expression levels  
 
@@ -16,7 +16,7 @@ This mini-project demonstrates basic data handling and visualisation in Python f
 
 
 
-\## 🧠 Skills Demonstrated
+\## Skills Demonstrated
 
 \- Python (pandas, matplotlib)
 
